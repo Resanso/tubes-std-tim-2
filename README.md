@@ -2,7 +2,7 @@
 
 Berikut adalah representasi visual dari struktur Multi-Linked List (MLL) Relasional N-to-M yang digunakan dalam proyek ini.
 
-## Struktur Diagram (Mermaid)
+## Child dan Parent Flow 
 
 Diagram ini menunjukkan:
 
